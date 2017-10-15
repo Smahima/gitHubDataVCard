@@ -61,3 +61,10 @@ main {
   font-family: sans-serif;
 
 }
+
+img {
+  margin-left: 5px;
+  border-radius: 200px;
+  width: 110px;
+  margin-bottom: -200px;
+}
