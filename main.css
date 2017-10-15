@@ -26,7 +26,10 @@ h1 {
   font-size: 2em;
   color: white;
   margin: 0;
+  display: flex;
+  justify-content: center;
 }
+
 
 main {
   display: flex;
@@ -37,8 +40,6 @@ main {
 .listInfo {
   font-size: 10px;
   font-family: sans-serif;
-
-
 }
 
 .listInfo a {
