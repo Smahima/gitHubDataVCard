@@ -1,3 +1,12 @@
 html {
   background: #0e0e0e;
 }
+
+body {
+  display: flex;
+  flex-wrap: wrap;
+  color: #919191;
+  font-family: 'PT Sans', sans-serif;
+  background: #f3f3f3;
+  margin: 100px 120px;
+}
