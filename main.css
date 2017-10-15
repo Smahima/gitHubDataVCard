@@ -10,3 +10,12 @@ body {
   background: #f3f3f3;
   margin: 100px 120px;
 }
+
+header {
+  text-align: center;
+  flex-basis: 100%;
+  position: relative;
+  background: black;
+  padding: 8px 8px 32px 8px;
+  background: #1d1d1d;
+}
