@@ -1,0 +1,2 @@
+- Using github API to create a vcard with my profile info
+- Creating without starter files. 
